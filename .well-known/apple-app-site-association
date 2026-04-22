@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "details": [
+          {
+            "appIDs": [
+              "XCV2AU47SU.me.related.nwc.swiftui",
+              "XCV2AU47SU.me.related.nwc.uikit"
+            ],
+            "components": [
+              { "/": "/related/loyalty/deal/*", "comment": "RelatedSDK reward details" }
+            ]
+          }
+        ]
+    }
+}
